@@ -117,7 +117,7 @@ const transactionController = {
                 font-size:30px;
               "
             >
-            SMT LAXMIBAI DAGDUSHETH HALWAI DATTA MANDIR TRUST
+            SMT. LAXMIBAI DAGDUSHETH HALWAI DATTA MANDIR TRUST
             </h5>
             <div>
           //   <h4
